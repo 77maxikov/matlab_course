@@ -1,3 +1,1 @@
-# Задачи 1
-
-[Tasks with functions](./01_fun_01.md)
+# [Задачи 1](./01_fun_01.md)
