@@ -3,3 +3,5 @@
 # [Задачи 3](./01_fun_03.md)
 # [Задачи 4](./02_graphics2d.md)
 # [Задачи 5](./03_graphics3d.md)
+# [Задачи 6](./04_handle_graphics.md)
+# [Задачи 7](./05_uitools.md)
