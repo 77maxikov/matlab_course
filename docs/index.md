@@ -5,3 +5,4 @@
 # [Задачи 5](./03_graphics3d.md)
 # [Задачи 6](./04_handle_graphics.md)
 # [Задачи 7](./05_uitools.md)
+# [Задачи 8](./06_polynomials.md)
