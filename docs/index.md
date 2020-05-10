@@ -6,3 +6,4 @@
 # [Задачи 6](./04_handle_graphics.md)
 # [Задачи 7](./05_uitools.md)
 # [Задачи 8](./06_polynomials.md)
+# [Задачи 9](./07_symbo.md)
